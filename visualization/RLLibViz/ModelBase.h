@@ -23,7 +23,7 @@
 #include "RL.h"
 #include "FourierBasis.h"
 //
-#include "Eigen/Dense"
+#include <Eigen/Dense>
 
 using namespace RLLib;
 using namespace Eigen;

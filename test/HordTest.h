@@ -9,7 +9,7 @@
 #define TEST_HORDTEST_H_
 
 #include "Test.h"
-#include "util/Eigen/Dense"
+#include <Eigen/Dense>
 
 class HordeProblem;
 class HordeProjector;

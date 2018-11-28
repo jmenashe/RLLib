@@ -10,7 +10,7 @@
 
 #include "Test.h"
 // Matrix
-#include "util/Eigen/Dense"
+#include <Eigen/Dense>
 using Eigen::MatrixXd;
 
 RLLIB_TEST(TreeFittedTest)

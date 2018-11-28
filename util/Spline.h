@@ -25,7 +25,7 @@
 #include <vector>
 #include <stdexcept>
 
-#include "util/Eigen/Dense"
+#include <Eigen/Dense>
 
 using Eigen::VectorXd;
 using Eigen::MatrixXd;

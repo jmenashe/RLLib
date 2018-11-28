@@ -19,7 +19,7 @@
 #include "Mat.h"
 #include "Mathema.h"
 // For dense matrices
-#include "Eigen/Dense"
+#include <Eigen/Dense>
 
 using namespace RLLib;
 using namespace Eigen;

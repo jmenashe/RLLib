@@ -1,7 +1,7 @@
 #include <QApplication>
 #include "RLLibVizMediator.h"
 
-#include "Eigen/Dense"
+#include <Eigen/Dense>
 #include "Vec.h"
 
 using namespace RLLibViz;

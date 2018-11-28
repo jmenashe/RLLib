@@ -23,8 +23,8 @@
 #define POLEBALANCING_H_
 
 #include "RL.h"
-#include "util/Eigen/Dense"
-#include "util/Eigen/Eigenvalues"
+#include <Eigen/Dense>
+#include "Eigen/Eigenvalues"
 #include "Mathema.h"
 
 using Eigen::VectorXd;
